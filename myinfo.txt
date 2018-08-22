@@ -1,1 +1,2 @@
 Full name: Alexander Reyes
+Department: Computer Science
